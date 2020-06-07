@@ -60,10 +60,10 @@ From your command line:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amadoyeshua/Ecoleta-Booster-NLW_MOBILE-APP
+$ git clone https://github.com/amadoyeshua/Ecoleta-NLW_Booster-Mobile
 
 # Go into the repository
-$ cd Ecoleta-Booster-NLW_MOBILE-APP1/server
+$ cd Ecoleta-NLW_Booster-Mobile
 
 # Install dependencies
 $ npm install
@@ -84,10 +84,10 @@ $ npm dev
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amadoyeshua/Ecoleta-Booster-NLW_MOBILE-APP
+$ git clone https://github.com/amadoyeshua/Ecoleta-NLW_Booster-Mobile
 
 # Go into the repository
-$ cd Ecoleta-Booster-NLW_MOBILE-APP/web
+$ cd Ecoleta-NLW_Booster-Mobile/web
 
 # Install dependencies
 $ npm install
@@ -102,10 +102,10 @@ $ npm start
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/amadoyeshua/Ecoleta-Booster-NLW_MOBILE-APP
+$ git clone https://github.com/amadoyeshua/Ecoleta-NLW_Booster-Mobile
 
 # Go into the repository
-$ cd Ecoleta-Booster-NLW_MOBILE-APP/mobile
+$ cd Ecoleta-NLW_Booster-Mobile/mobile
 
 # Install dependencies
 $ npm install
